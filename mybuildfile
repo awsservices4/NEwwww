@@ -1,3 +1,4 @@
+echo 'Triggering build..'
 date
 echo "this is build file, exiting with status 0..."
 exit /b 0
